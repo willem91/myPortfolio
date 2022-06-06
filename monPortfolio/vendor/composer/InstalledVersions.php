@@ -473,8 +473,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0',
-        1 => '1.0.0 || 2.0.0 || 3.0.0',
+        0 => '1.0.0 || 2.0.0 || 3.0.0',
+        1 => '1.0|2.0',
       ),
     ),
     'psr/simple-cache-implementation' => 
@@ -715,15 +715,6 @@ private static $installed = array (
       array (
       ),
       'reference' => '6f508169752ed2c0d0d8a6641c4cca39a8f1dfcb',
-    ),
-    'symfony/debug-pack' => 
-    array (
-      'pretty_version' => 'v1.0.10',
-      'version' => '1.0.10.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '98ef3cb02f9adb54b98d8bc95c84b896513a51d5',
     ),
     'symfony/dependency-injection' => 
     array (
@@ -973,15 +964,6 @@ private static $installed = array (
       ),
       'reference' => 'cc1147cb11af1b43f503ac18f31aa3bec213aba8',
     ),
-    'symfony/orm-pack' => 
-    array (
-      'pretty_version' => 'v2.2.0',
-      'version' => '2.2.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'c4728ba9ed071876f71df637c7dff0490c9252b2',
-    ),
     'symfony/password-hasher' => 
     array (
       'pretty_version' => 'v5.4.8',
@@ -1102,15 +1084,6 @@ private static $installed = array (
       ),
       'reference' => '597f3fff8e3e91836bb0bd38f5718b56ddbde2f3',
     ),
-    'symfony/profiler-pack' => 
-    array (
-      'pretty_version' => 'v1.0.6',
-      'version' => '1.0.6.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'bcd6e80af9819454ac18594362e7875fd1d771c7',
-    ),
     'symfony/property-access' => 
     array (
       'pretty_version' => 'v5.4.8',
@@ -1210,15 +1183,6 @@ private static $installed = array (
       ),
       'reference' => 'b54815117a06a8120604bdf00219e3a55288ee1e',
     ),
-    'symfony/serializer-pack' => 
-    array (
-      'pretty_version' => 'v1.1.0',
-      'version' => '1.1.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'd6b1aca1e4f853d0d1ad3da24576e4dd9ab22510',
-    ),
     'symfony/service-contracts' => 
     array (
       'pretty_version' => 'v2.5.1',
@@ -1252,15 +1216,6 @@ private static $installed = array (
       array (
       ),
       'reference' => '985e6a9703ef5ce32ba617c9c7d97873bb7b2a99',
-    ),
-    'symfony/test-pack' => 
-    array (
-      'pretty_version' => '1.0.10',
-      'version' => '1.0.10.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '03ab012f4aab784690d21417f7cdd7b432fd4e73',
     ),
     'symfony/translation' => 
     array (
@@ -1304,15 +1259,6 @@ private static $installed = array (
       array (
       ),
       'reference' => 'c992b4474c3a31f3c40a1ca593d213833f91b818',
-    ),
-    'symfony/twig-pack' => 
-    array (
-      'pretty_version' => 'v1.0.1',
-      'version' => '1.0.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '08a73e833e07921c464336deb7630f93e85ef930',
     ),
     'symfony/validator' => 
     array (
